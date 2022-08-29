@@ -8,7 +8,9 @@ function Home() {
         <li>
           <Link href='about'>ABOUT</Link>
         </li>
-        <li><Link href='post'>POST</Link></li>
+        <li>
+          <Link href='post'>POST</Link>
+        </li>
       </ul>
     </div>
   );
